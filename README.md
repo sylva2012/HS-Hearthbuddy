@@ -4,8 +4,8 @@
 # 使用说明  
 ## TryStudy使用方法  
 1.这是一个完全免费的程序，策略包含经典、狂野、标准
-2.策略地址：https://gitee.com/notnow/hearthstoneRoutine
-3.作者感谢地址：https://gitee.com/notnow/hearthstoneRoutine/wikis/%E6%8D%90%E8%B5%A0?sort_id=3996608
+2.策略地址：https://gitee.com/notnow/hearthstoneRoutine  
+3.作者感谢地址：https://gitee.com/notnow/hearthstoneRoutine/wikis/%E6%8D%90%E8%B5%A0?sort_id=3996608  
 
 ## 折腾版使用方法
 1.解压 20210109折腾版.zip   
@@ -37,5 +37,5 @@
 5.上传HB_4.16-master无壳(未修复).zip  
 
 # 感谢  
-孤独念旧人(百度贴吧)
-李文浩(giee)
+孤独念旧人(百度贴吧)  
+李文浩(giee)  
